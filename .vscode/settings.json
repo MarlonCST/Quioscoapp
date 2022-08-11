@@ -1,0 +1,9 @@
+{
+  "auto-rename-tag.activationOnLanguage": ["*"],
+  "bracket-pair-colorizer-2.scopeLineCSS": [
+    "borderStyle : solid",
+    "borderWidth : 1px",
+    "borderColor : {color}",
+    "opacity: 0.5"
+  ]
+}
